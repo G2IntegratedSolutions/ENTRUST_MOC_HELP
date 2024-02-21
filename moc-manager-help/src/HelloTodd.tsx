@@ -4,7 +4,7 @@ const HelloTodd: React.FC = () => {
     const handleClick = () => {
         let a = 5;
         debugger;
-        console.log('Hello');
+        console.log('Hello World!');
     };
 
     return (
